@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp_ecg/wp-admin/
+Disallow: /wp_ecg/wp-includes/
+
+Sitemap: http://www.greenway.org/sitemap.xml
